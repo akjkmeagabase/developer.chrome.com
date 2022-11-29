@@ -4,7 +4,6 @@ const SNAPSHOTS = [
   '/en/page-types/blog-landing/index.html',
   '/en/page-types/blog-post/index.html',
   '/en/page-types/collection-landing/index.html',
-  '/en/misc/test-post/index.html',
 ];
 
 module.exports = {
